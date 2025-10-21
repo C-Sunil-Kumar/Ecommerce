@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Dell XPS 15 Laptop",
+    "price": 1899.99,
+    "description": "A high-performance laptop with a stunning 4K UHD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD. Perfect for creative professionals and power users.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/xps_15_1.jpg"
+      },
+      {
+        "image": "/images/xps_15_2.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Dell",
+    "stock": 50,
+    "numOfReviews": 18,
+    "reviews": [
+      {
+        "name": "Mike P.",
+        "rating": 5,
+        "comment": "Incredibly fast and the screen is gorgeous. Best laptop I've ever owned."
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 4,
+        "comment": "Runs a bit hot under load, but the performance is undeniable."
+      }
+    ]
+  },
+  {
+    "name": "Sony Alpha a7 IV",
+    "price": 2498.00,
+    "description": "Full-frame hybrid camera with a 33MP sensor, advanced autofocus, and 4K 60p video recording. The new standard in full-frame.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/sony_a7iv_1.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Sony",
+    "stock": 30,
+    "numOfReviews": 12,
+    "reviews": [
+      {
+        "name": "Alex Johnson",
+        "rating": 5,
+        "comment": "The autofocus is magic. Worth every penny for a professional."
+      }
+    ]
+  },
+  {
+    "name": "The Midnight Library",
+    "price": 15.60,
+    "description": "A novel by Matt Haig. Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/midnight_library_1.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Penguin Books",
+    "stock": 200,
+    "numOfReviews": 50,
+    "reviews": [
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "comment": "A thought-provoking and beautiful story. I couldn't put it down."
+      },
+      {
+        "name": "David Chen",
+        "rating": 4,
+        "comment": "A bit repetitive at times, but the concept is fantastic."
+      }
+    ]
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1",
+    "price": 89.95,
+    "description": "7-in-1 appliance: pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker and warmer. 6-quart large capacity cooks for up to 6 people.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/instant_pot_1.jpg"
+      },
+      {
+        "image": "/images/instant_pot_2.jpg"
+      }
+    ],
+    "category": "Home",
+    "seller": "Instant Brands",
+    "stock": 120,
+    "numOfReviews": 150,
+    "reviews": [
+      {
+        "name": "Maria Garcia",
+        "rating": 5,
+        "comment": "This has changed my weeknight cooking game completely. So easy to use!"
+      }
+    ]
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 40",
+    "price": 130.00,
+    "description": "A springy ride for every run, the Peg's familiar, just-for-you feel returns to help you accomplish your goals. This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/pegasus_40_1.jpg"
+      }
+    ],
+    "category": "Clothes/Shoes",
+    "seller": "Nike",
+    "stock": 300,
+    "numOfReviews": 42,
+    "reviews": []
+  }
+]

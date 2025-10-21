@@ -1,0 +1,8 @@
+//1. model 
+create a model eg. productmodel,userModel
+//2.controllers
+create controllers to those models 
+//3. routes
+add those controller url routes in routes
+//4. app.js
+include the routes in app js
